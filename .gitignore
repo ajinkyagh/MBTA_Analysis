@@ -31,7 +31,8 @@ data/
 
 # Analysis outputs (optional)
 # Keep notebooks and scripts, ignore large CSV outputs
-Analysis_*/
+# ignore csv outputs but keep images and notebooks
+Analysis_*/*.csv
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

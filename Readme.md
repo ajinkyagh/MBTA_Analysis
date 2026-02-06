@@ -70,7 +70,7 @@ Outout CSV file :
 
 
 
-![alt tag](https://github.com/Ajinkya/MBTA_Analysis_using_Python/blob/master/Analysis_1/Analysis_1.jpg)
+![alt tag](./Analysis_1/Analysis_1.jpg)
 
 Insights - We can clearly see that as expected, the travel time between 8am to 10am and between 4pm to 6pm is the highest as they are rush hours. Apart from that, there are few late trains.
 
@@ -107,7 +107,7 @@ python Analysis_2.py 2016-01-14
 | 2016-04-04 06:38:06 | 65             |
 
 
-![alt tag](https://github.com/Ajinkya/MBTA_Analysis_using_Python/blob/master/Analysis_2/Analysis_2.jpg)
+![alt tag](./Analysis_2/Analysis_2.jpg)
 
 
 Insights - We can clearly see that as expected, the dwell time between 8am to 10am and between 4pm to 6pm is the highest as they are rush hours, so there will be more crowd going in and going out of the train. This is similar to what i found in Analysis 1. Therefore, travel time is probably higher because of the dwell time during these hours.
@@ -139,11 +139,11 @@ Output CSV file :-
 
 
 
-![alt tag](https://github.com/Ajinkya/MBTA_Analysis_using_Python/blob/master/Analysis_3/Analysis_3_part1.jpg)
+![alt tag](./Analysis_3/Analysis_3_part1.jpg)
 
 
 
-![alt tag](https://github.com/Ajinkya/MBTA_Analysis_using_Python/blob/master/Analysis_3/Analysis_3_part2.jpg)
+![alt tag](./Analysis_3/Analysis_3_part2.jpg)
 
 
 Insights - We can see that most of the salary expenditure is during maintenance and bus operations. MBTA can think of saving some wages on these dept. 
@@ -189,11 +189,11 @@ Output CSV file :-
 | Revenue  | Month to Date Budgeted Amount | 178598801.861 |
 
   
- ![alt tag](https://github.com/Ajinkya/MBTA_Analysis_using_Python/blob/master/Analysis_4/Analysis_4_part1.jpg)
+ ![alt tag](./Analysis_4/Analysis_4_part1.jpg)
  
  
  
- ![alt tag](https://github.com/Ajinkya/MBTA_Analysis_using_Python/blob/master/Analysis_4/Analysis_4_part2.jpg)
+ ![alt tag](./Analysis_4/Analysis_4_part2.jpg)
  
  
 Insights - We can see that 79.2% of the expenses are operating expenses and 20% of the expenses are spent on prior debt payment. However, only 31.7% of the revenue comes from the Operating revenues and rest from government funds. Hence, rise in prices of operating of MBTA is justified. Also, we have seen the difference between actual and budgetted amount. Even thought MBTA is in debt, the budgetted amount is always greater than the actual amount.
@@ -248,11 +248,11 @@ Output CSV file :-
 
 
 
-![alt tag](https://github.com/Ajinkya/MBTA_Analysis_using_Python/blob/master/Analysis_5/Analysis_5_part1.jpg)
+![alt tag](./Analysis_5/Analysis_5_part1.jpg)
 
 
 
-![alt tag](https://github.com/Ajinkya/MBTA_Analysis_using_Python/blob/master/Analysis_5/Analysis_5_part2.jpg)
+![alt tag](./Analysis_5/Analysis_5_part2.jpg)
 
 
 Insights -  The ratings increase and decrease every month but the average rating comes out to be around 4.5 out of 7. The visualization of survey question shows that customers somewhat agree that MBTA's performance is satisfactory.
